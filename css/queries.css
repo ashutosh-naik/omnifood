@@ -120,4 +120,11 @@
   .btn-form {
     margin-top: 1.2rem;
   }
+
+  /*************/
+  /* MOBILE */
+  /*************/
+  .btn-mobile-nav {
+    display: block;
+  }
 }
